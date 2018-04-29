@@ -10,7 +10,7 @@ gunicorn==19.8.0
 jmespath==0.9.3
 onctuous==0.5.84
 psycopg2==2.7.4
-pypyodbc==1.3.4
+pypyodbc==1.3.4.3
 python-dateutil==2.7.2
 pytz==2018.4
 s3transfer==0.1.13
